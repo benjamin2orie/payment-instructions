@@ -16,6 +16,9 @@ const swaggerOptions = {
       {
         url: `http://localhost:${PORT}`,
       },
+      {
+        url:`https://payment-instructions.onrender.com`
+      },
     ],
   },
   apis: ['./src/routes/*.js'], 

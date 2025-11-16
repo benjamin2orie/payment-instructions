@@ -31,8 +31,8 @@ CREDIT 50 USD FROM ACCOUNT 9137390244 FOR DEBIT TO ACCOUNT 8142155367 ON 2025-11
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/payment-instruction-api.git
-cd payment-instruction-api
+git clone https://github.com/benjamin2orie/payment-instructions.git
+cd payment-instructions
 npm install
 
 .env 
@@ -46,3 +46,6 @@ API documentation available at http://localhost:3000/api-docs
 
 start the server
  npm run dev
+
+
+eployed api docs url: https://payment-instructions.onrender.com/api-docs
